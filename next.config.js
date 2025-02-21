@@ -2,11 +2,12 @@
 const nextConfig = {
   output: "export",
   distDir: "docs",
-  // basePath: "/prashmi9/Rashmi-Portfolio",
   images: { unoptimized: true },
   eslint: {
     ignoreDuringBuilds: true,
   },
+  assetPrefix: "/prashmi9/Rashmi-Portfolio",
+  basePath: "/prashmi9/Rashmi-Portfolio",
 };
 
 module.exports = nextConfig;
