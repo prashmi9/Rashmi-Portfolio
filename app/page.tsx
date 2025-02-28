@@ -124,7 +124,7 @@ export default function Home() {
         "Azure devops",
         "Web performances",
       ],
-      image: "../assets/images/Philips-homeaplaince.png",
+      image: "./assets/images/Philips-homeaplaince.png",
       link: "https://www.home-appliances.philips/nl/nl/",
     },
     {
@@ -147,7 +147,7 @@ export default function Home() {
         "Gitlab",
         "Git Actions",
       ],
-      image: "../assets/images/NisbetsDotCom.png",
+      image: "./assets/images/NisbetsDotCom.png",
       link: "https://www.nisbets.co.uk/homepage",
     },
     {
@@ -170,7 +170,7 @@ export default function Home() {
         "Azure devops",
         "Web performances",
       ],
-      image: "../assets/images/BaristinaDotCom.png",
+      image: "./assets/images/BaristinaDotCom.png",
       link: "https://www.baristina.com/nl/nl/",
     },
     {
@@ -189,7 +189,7 @@ export default function Home() {
         "WCAG",
         "Responsive Design",
       ],
-      image: "../assets/images/Barclays-Webchat.png",
+      image: "./assets/images/Barclays-Webchat.png",
       link: "#",
     },
     {
@@ -204,7 +204,7 @@ export default function Home() {
         "Accessibility",
         "JSON",
       ],
-      image: "../assets/images/AutoInsurance-homepage.png",
+      image: "./assets/images/AutoInsurance-homepage.png",
       link: "#",
     },
     {
@@ -226,7 +226,7 @@ export default function Home() {
         "WCAG 2.1 Level AAA",
         "RNIB",
       ],
-      image: "../assets/images/TheBosyShop.png",
+      image: "./assets/images/TheBosyShop.png",
       link: "https://www.thebodyshop.com/",
     },
     {
@@ -242,7 +242,7 @@ export default function Home() {
         "UX design",
         "ASP.NET Core",
       ],
-      image: "../assets/images/FritzysPetCarePros.png",
+      image: "./assets/images/FritzysPetCarePros.png",
       link: "https://fritzyspetcarepros.com/",
     },
     {
@@ -261,7 +261,7 @@ export default function Home() {
         "uDeploy/Jenkins",
         "Cypress",
       ],
-      image: "../assets/images/LongTallSally.png",
+      image: "./assets/images/LongTallSally.png",
       link: "https://www.longtallsally.com/",
     },
     {
@@ -284,7 +284,7 @@ export default function Home() {
         "Enzyme",
         "Fetch API",
       ],
-      image: "../assets/images/ibanet-org.png",
+      image: "./assets/images/ibanet-org.png",
       link: "https://www.ibanet.org/",
     },
   ];
