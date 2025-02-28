@@ -10,4 +10,5 @@ To create Production ready build with Docs folder run - npm run deploy
 
 <!--  -->
 
-Remember to
+Remember to remove previous dirs
+rm -rf .next && rm -rf docs && rm -rf out && rm -rf \_next
