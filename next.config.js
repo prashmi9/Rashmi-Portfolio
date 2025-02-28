@@ -7,7 +7,7 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   assetPrefix: "",
-  basePath: "/prashmi9/Rashmi-Portfolio", // production
+  basePath: "/Rashmi-Portfolio", // production
   //basePath: "", //local
 };
 
