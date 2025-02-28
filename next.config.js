@@ -6,7 +6,7 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  assetPrefix: "/prashmi9/Rashmi-Portfolio",
+  assetPrefix: "/",
   basePath: "/prashmi9/Rashmi-Portfolio",
 };
 
