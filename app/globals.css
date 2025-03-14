@@ -91,7 +91,8 @@ body {
 /* Custom gradient background fallback */
 .gradient-section {
   /* background: linear-gradient(135deg, #6366f1, #ec4899, #4f46e5, #10b981); original*/
-  background: linear-gradient(135deg, #e44df5, #84e4f1, #6962f5, #65ec6a);
+  /*  #c4f5cb, #3d1fb7, #6962f5, #c4f5cb final */
+  background: linear-gradient(135deg, #f4bb35, #3d1fb7, #98b206, #0297b8);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
