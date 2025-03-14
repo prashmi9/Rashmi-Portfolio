@@ -7,12 +7,6 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ProjectCard } from "@/components/project-card";
 
-// export const metadata = {
-//   alternates: {
-//     canonical: "/",
-//   },
-// };
-
 export default function Home() {
   useEffect(() => {
     // Get canvas element using DOM methods
@@ -203,6 +197,7 @@ export default function Home() {
         "CSS",
         "Accessibility",
         "JSON",
+        "Java",
       ],
       image: "./assets/images/AutoInsurance-homepage.png",
       link: "#",
@@ -290,30 +285,53 @@ export default function Home() {
   ];
 
   const skills = [
-    "Angular 17+",
+    "JavaScript",
+    "TypeScript",
+    "Angular 18+",
     "NgRx",
     "RxJs",
     "Redux",
     "REST API",
-    "JavaScript",
-    "TypeScript",
+    "Node.JS",
+    "JSON",
+    "Docker",
+    "Kubernetes",
     "Bootstrap",
     "Accessibility",
     "React",
     "Next.js",
     "Web Development",
+    "Git",
     "Github",
+    "Gitlabs",
     "Microservices",
     "HTML5/CSS3/SASS",
     "Web Components",
     "Web Performance",
-    "Node.JS",
+    "MongoDB",
     "ExpressJS",
     "Tailwind CSS",
-    "Git",
     "REST APIs",
+    "SQL",
+    "MySQL",
     "GraphQL",
+    "MongoDB",
     "Responsive Design",
+    "WCAG Accessibility",
+    "AWS certification",
+    "Java",
+    "Spring",
+    "Spring boot",
+    "Spring Cloud",
+    "jUnit",
+    "Visual Studio Code",
+    "Eclipse",
+    "IntelliJ",
+    "SonarQube",
+    "Karma",
+    "Jasmine",
+    "Jest",
+    "Playwright",
   ];
 
   return (
@@ -372,15 +390,15 @@ export default function Home() {
           </h2>
           <div className="max-w-3xl mx-auto text-center">
             <p className="text-base md:text-lg text-muted-foreground mb-6">
-              I am a seasoned Senior Front-End Developer with over 15 years of
-              experience in web development and front-end technologies. Known
-              for my deep expertise in core web and browser concepts, I
-              consistently deliver high-quality, user-centric solutions. As a
-              collaborative team player with strong communication skills, I
-              excel at bridging technical and non-technical teams, ensuring
-              project success and adding significant value to every initiative I
-              contribute to. I am available to join immediately and bring value
-              to your team from day one.
+              I am a seasoned Senior Developer with over 15 years of experience
+              in web development and Software technologies. Strong expertise in
+              software development with proficiency in Node.JS (TS and JS).
+              Demonstrative experience in development of web applications with
+              thorough knowledge in front-end and backend server-side
+              technologies. As a collaborative team player with strong
+              communication skills, I excel at bridging technical and
+              non-technical teams, ensuring project success and adding
+              significant value to every initiative I contribute to.
             </p>
             <div className="flex gap-4 justify-center mt-8">
               <Button
@@ -409,16 +427,6 @@ export default function Home() {
                   rel="noopener noreferrer"
                 >
                   <Linkedin className="h-5 w-5" aria-hidden="true" />
-                </Link>
-              </Button>
-              <Button
-                variant="outline"
-                size="icon"
-                aria-label="Send Email"
-                asChild
-              >
-                <Link href="#">
-                  <Mail className="h-5 w-5" aria-hidden="true" />
                 </Link>
               </Button>
             </div>
