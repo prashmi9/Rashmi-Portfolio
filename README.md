@@ -16,6 +16,7 @@ To run the project in dev mode run - npx next dev
 # Production ready
 
 To create Production ready build with Docs folder run - npm run deploy
+commit docs and \_next changes
 
 <!--  -->
 
