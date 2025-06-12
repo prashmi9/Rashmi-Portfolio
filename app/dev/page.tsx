@@ -100,17 +100,15 @@ export default function Home() {
     {
       title: "Philips home appliances (Versuni)",
       description:
-        " Delivered high quality frontend work for Philips home appliances (Versuni). Delivering features like Multi country/language support for their e-commerce storefront. Advocated for improvements to product quality, security, responsiveness.",
+        "Delivering high quality frontend work for Philips home appliances (Versuni) using SAP Spartacus 6, Angular v17+, NgRx, RxJs Observables, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tool. Delivering features like Multi country/language support for their e-commerce storefront. Integrated with RESTful services. Working with CI/CD pipelines tools like Gitlab and Git Actions. Azure devops for sprint ceremonies. Familiarity with techniques for optimizing web performances.",
       tech: [
-        "Figma",
-        "User Experience",
-        "Visual Design",
+        "Angular v17+",
+        "SAP Spartacus 6",
         "JavaScript",
         "HTML5/SCSS/CSS3",
-        "Product quality",
-        "Responsiveness",
-        "Security",
-        "Angular v17+",
+        "TDD",
+        "NgRx",
+        "RxJs Observables",
         "Typescript",
         "Jasmine & Karma",
         "RESTful services",
@@ -126,14 +124,18 @@ export default function Home() {
     {
       title: "Nisbets",
       description:
-        "Led a customer-centric UX strategy for Hospitality Equipment Retailer Nisbets. \n Designed home screen icon, various screens and Integrated offline accessible mobile app - progressive web app (PWA).",
+        " Lead the team to developed B2B e-commerce retailer web app for Nisbets using Spartacus 4.3, Angular v14, NgRx, RxJs, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tools for 2 Years. Have used Data management patterns like observables, two-way binding, unidirectional data flow etc. Integrate with RESTful services using API Gateway and asynchronous programming. Integrated offline accessible mobile app - progressive web app (PWA). Was responsible for code reviews and mentoring. Helped with UI/UX requirements. Used CI/CD pipelines tools like Gitlab and Git Actions.",
       tech: [
-        "Figma",
-        "Product quality",
-        "Responsiveness",
-        "JavaScript",
-        "HTML5/SCSS/CSS3",
-        "Security",
+        "Angular v14",
+        "Spartacus 4.3",
+        "NgRx",
+        "RxJs",
+        "HTML5",
+        "SCSS",
+        "Typescript",
+        "Jasmine & Karma",
+        "RESTful services",
+        "API Gateway",
         "Progressive web app (PWA)",
         "CI/CD pipelines",
         "Gitlab",
@@ -145,15 +147,16 @@ export default function Home() {
     {
       title: "Baristina",
       description:
-        "Contributed with Landing page Animations creation for Baristina app. Web app for Baristina Coffee machine (Versuni).  Working with CI/CD pipelines tools like Gitlab and Git Actions. Familiarity with techniques for optimizing web performances.",
+        "Web app for Baristina Coffee machine (Versuni) using SAP Spartacus 6, Angular v17+, NgRx, RxJs Observables, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tool. Delivering features like heavy animation, Multi country/language support for their e-commerce storefront. Integrated with RESTful services. Working with CI/CD pipelines tools like Gitlab and Git Actions. Azure devops for sprint ceremonies. Familiarity with techniques for optimizing web performances.",
       tech: [
-        "Animations",
-        "Design",
-        "Figma",
-        "Interaction Design",
+        "Angular v17+",
+        "SAP Spartacus 6",
         "Typescript/ JavaScript",
+        "TDD",
+        "NgRx",
         "RxJs Observables",
         "HTML5/SCSS/CSS3",
+        "Jasmine & Karma",
         "RESTful services",
         "CI/CD pipelines",
         "Gitlab",
@@ -165,42 +168,20 @@ export default function Home() {
       link: "https://www.baristina.com/nl/nl/",
     },
     {
-      title: "BNP Paribas Fortis",
-      description:
-        "Worked on designing flyouts for client visits using Irise design software. Creation of journey flows and wireframes to help visualise the new journeys Define interaction models/wireframes, user task flows, and UI (user interface) specifications",
-      tech: [
-        "Irise",
-        "Design",
-        "Layouts",
-        "Interactive design",
-        "Flyouts",
-        "Client visits",
-        "User Experience",
-      ],
-      image: "./assets/images/Bnpflyer.jpg",
-      link: "#",
-    },
-    {
       title: "Barclays web chat application",
       description:
         "Developed web chat application for Barclays Nomi web chat app using inbuilt responsive framework, CSS, Bootstrap and jQuery. Proficiently, converted the Photoshop designs into HTML prototypes and backend implementation, which supported all devices such as iPhone, iPad, and Android browsers.",
       tech: [
-        "Photoshop",
-        "Visual Design",
-        "Prototyping",
-        "Wireframes",
-        "User Experience",
-        "User Interface Design",
-        "Interaction Design",
         "HTML",
         "CSS",
-        "Responsive Design",
         "MVC components",
         "Vanilla JavaScript",
         "AngularJs",
         "Bootstrap",
         "jQuery",
+        "Photoshop",
         "WCAG",
+        "Responsive Design",
       ],
       image: "./assets/images/Barclays-Webchat.png",
       link: "#",
@@ -211,9 +192,6 @@ export default function Home() {
         "Developed cross-platform hybrid mobile app using  Appcelerator Titanium JavaScript Hybrid framework for an Automobile insurance project. Ensured ACCORD compliance with JavaScript Hybrid framework, HTML, CSS, Accessibility, and JSON. Team lead activities including code reviews and mentoring. Developed this application with high-level interactivity on the client side using JavaScript and Ajax.",
       tech: [
         "Appcelerator Titanium  framework",
-        "Cross-platform",
-        "Mobile app",
-        "Interactivity",
         "JavaScript Hybrid ",
         "HTML",
         "CSS",
@@ -227,11 +205,8 @@ export default function Home() {
     {
       title: "The Body Shop",
       description:
-        "Implemented WCAG 2.1 Level AAA for The Body Shop online shopping web and mobile application, ensuring accessibility with assistive technologies. Collaborated with RNIB (Royal National Institute of Blind people) for approval on quality. Achieved that the app is usable and navigable by individuals with disabilities.",
+        "Worked on web app using Angular, NgRx, CSS3 - LESS, Node, Grunt for 2 years, Implemented WCAG 2.1 Level AAA for The Body Shop online shopping web and mobile application, ensuring accessibility with assistive technologies. Collaborated with RNIB (Royal National Institute of Blind people) for approval on quality. Achieved that the app is usable and navigable by individuals with disabilities.",
       tech: [
-        "Pa11y",
-        "VoiceOver",
-        "Screen readers",
         "Angular",
         "RxJs",
         "HTML5",
@@ -252,14 +227,8 @@ export default function Home() {
     {
       title: "Fritzy's Pet Care pros",
       description:
-        " I was responsible for producing an enthralling user experience and creating wireframes. Worked closely with the UX team to produce an enthralling user experience for one of our Pet care clients. Resolved browser compatibility issues for IE v7, IE8. Assisted the Dev team in integrating static code with back-end development",
+        "As a web developer I Created web application using HTML, CSS, Vanilla JavaScript and ASP.NET Core Worked closely with the UX team to produce an enthralling user experience for one of our Pet care clients. Resolved browser compatibility issues for IE v7, IE8. Assisted the Dev team in integrating static code with back-end development",
       tech: [
-        "Wireframes",
-        "Photoshop",
-        "User interface design",
-        "Animation effects",
-        "User experience",
-        "Browser compatibility",
         "HTML",
         "CSS",
         "Vanilla JavaScript",
@@ -271,39 +240,44 @@ export default function Home() {
       image: "./assets/images/FritzysPetCarePros.png",
       link: "https://fritzyspetcarepros.com/",
     },
-    // {
-    //   title: " Long Tall Sally ecommerce",
-    //   description:
-    //     "As a web developer I built their web app Angular, NgRx, unit testing frameworks Karma-Jasmine, CSS3 - LESS, Node, UI/UX Grunt for 3 years, ​​Also was helping the team with uDeploy/Jenkins for code deployments. Used Automated Testing tools like Cypress for around 1 year",
-    //   tech: [
-    //     "Angular",
-    //     "NgRx",
-    //     "Karma-Jasmine",
-    //     "HTML",
-    //     "CSS3 - LESS",
-    //     " JavaScript",
-    //     "Node",
-    //     "Grunt",
-    //     "uDeploy/Jenkins",
-    //     "Cypress",
-    //   ],
-    //   image: "./assets/images/LongTallSally.png",
-    //   link: "https://www.longtallsally.com/",
-    // },
+    {
+      title: " Long Tall Sally ecommerce",
+      description:
+        "As a web developer I built their web app Angular, NgRx, unit testing frameworks Karma-Jasmine, CSS3 - LESS, Node, UI/UX Grunt for 3 years, ​​Also was helping the team with uDeploy/Jenkins for code deployments. Used Automated Testing tools like Cypress for around 1 year",
+      tech: [
+        "Angular",
+        "NgRx",
+        "Karma-Jasmine",
+        "HTML",
+        "CSS3 - LESS",
+        " JavaScript",
+        "Node",
+        "Grunt",
+        "uDeploy/Jenkins",
+        "Cypress",
+      ],
+      image: "./assets/images/LongTallSally.png",
+      link: "https://www.longtallsally.com/",
+    },
     {
       title: "International Bar Association",
       description:
         "Developed web app for this law firm with quality and in time using ReactJs, Redux, NextJs, unit testing frameworks Jest, CSS3 - LESS, Node, Micro-services. Have used Babel, Webpack Dev Server, Chakra, ESLint, Formik, Enzyme, Fetch API for REST API’s. Provided post go-live support with fixing defects and change requests.",
       tech: [
-        "Design",
-        "Figma",
-        "Interaction Design",
-        "Typescript/ JavaScript",
+        "ReactJs",
+        "Redux",
+        "NextJs",
+        "Jest",
         "CSS3 - LESS",
         "Node",
         "Micro-services",
         "Babel",
+        "Webpack Dev Server",
+        "Chakra",
         "ESLint",
+        "Formik",
+        "Enzyme",
+        "Fetch API",
       ],
       image: "./assets/images/ibanet-org.png",
       link: "https://www.ibanet.org/",
@@ -311,41 +285,53 @@ export default function Home() {
   ];
 
   const skills = [
-    "Interaction Design",
-    " UX Design and User Interface Design",
-    " User Research",
-    " Attention to Detail",
-    " WCAG Accessibility",
-    " Usability Testing and Refinement",
-    " Customer Research",
-    " Storyboarding ",
-    "Animations",
-    " Logo Animations",
-    "Architectural Visualisations",
-    " Prototyping - Figma, Sketch and Axure",
-    " Agile - Azure, Confluence, Jira",
-    " Adobe creative suite",
-    " Design Thinking",
-    "Innovation Data-Driven",
-    " Design and Research Metrics",
-    " Strategic Leadership & UX Advocacy",
-    "HTML/CSS",
-    " JavaScript/TypeScript",
-    " Angular 18+",
-    " Bootstrap/Material-UI",
+    "JavaScript",
+    "TypeScript",
+    "Angular 18+",
+    "NgRx",
+    "RxJs",
+    "Redux",
     "REST API",
     "Node.JS",
+    "JSON",
+    "Docker",
+    "Kubernetes",
+    "Bootstrap",
+    "Accessibility",
+    "React",
+    "Next.js",
     "Web Development",
+    "Git",
     "Github",
+    "Gitlabs",
     "Microservices",
     "HTML5/CSS3/SASS",
     "Web Components",
     "Web Performance",
+    "MongoDB",
+    "ExpressJS",
     "Tailwind CSS",
+    "REST APIs",
+    "SQL",
+    "MySQL",
+    "GraphQL",
+    "MongoDB",
     "Responsive Design",
     "WCAG Accessibility",
     "AWS certification",
+    "Java",
+    "Spring",
+    "Spring boot",
+    "Spring Cloud",
+    "jUnit",
     "Visual Studio Code",
+    "Eclipse",
+    "IntelliJ",
+    "SonarQube",
+    "Karma",
+    "Jasmine",
+    "Jest",
+    "Playwright",
   ];
 
   return (
@@ -373,8 +359,9 @@ export default function Home() {
               Rashmi Suralkar
             </h1>
             <p className="text-lg sm:text-sm md:text-3xl text-white mb-8 max-w-2xl mx-auto">
-              Senior UX/UI Expert <br /> Interaction Design <br /> WCAG
-              Accessibility <br />
+              Senior Frontend Developer <br /> Fullstack Developer <br />{" "}
+              Angular Expert <br />
+              React Enthusiast
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button variant="outline" size="lg" asChild className="shadow-md">
@@ -405,20 +392,15 @@ export default function Home() {
           </h2>
           <div className="max-w-3xl mx-auto text-center">
             <p className="text-base md:text-lg text-muted-foreground mb-6">
-              I am a seasoned Senior Front-End Designer with over 15 years of
-              experience in web design and front-end technologies. I possess
-              extensive expertise in the design and development of web
-              applications and comprehensive understanding of modern design
-              principles and development practices. As a collaborative team
-              player with strong communication skills, a positive mindset, and a
-              solution-oriented approach, I excel at bridging the gap between
-              design, technical, and non-technical teams to ensure successful
-              project outcomes. My passion for creating user-centric designs
-              drives me to deliver high-quality, accessible, and engaging web
-              experiences. I am committed to continuous learning and staying
-              updated with the latest industry trends and technologies to
-              deliver innovative solutions that meet the evolving needs of users
-              and businesses.
+              I am a seasoned Senior Developer with over 15 years of experience
+              in web development and Software technologies. Strong expertise in
+              software development with proficiency in Node.JS (TS and JS).
+              Demonstrative experience in development of web applications with
+              thorough knowledge in front-end and backend server-side
+              technologies. As a collaborative team player with strong
+              communication skills, I excel at bridging technical and
+              non-technical teams, ensuring project success and adding
+              significant value to every initiative I contribute to.
             </p>
             <div className="flex gap-4 justify-center mt-8">
               <Button
