@@ -13,7 +13,7 @@ export default function Home() {
     } else if (window.location.href.includes("ux")) {
       router.push("/ux");
     } else {
-      router.push("/ang");
+      router.push("/ux");
     }
   }, []);
 
