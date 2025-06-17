@@ -10,8 +10,8 @@ export default function Home() {
     // Only works client-side, not server-side
     if (window.location.href.includes("react")) {
       router.push("/react");
-    } else if (window.location.href.includes("ux")) {
-      router.push("/ux");
+    } else if (window.location.href.includes("ang")) {
+      router.push("/ang");
     } else {
       router.push("/ux");
     }
