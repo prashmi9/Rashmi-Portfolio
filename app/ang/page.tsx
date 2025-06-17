@@ -361,7 +361,7 @@ export default function Home() {
             <p className="text-lg sm:text-sm md:text-3xl text-white mb-8 max-w-2xl mx-auto">
               Senior Frontend Developer <br /> Fullstack Developer <br />{" "}
               Angular Expert <br />
-              React Enthusiast
+              Node Enthusiast
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button variant="outline" size="lg" asChild className="shadow-md">

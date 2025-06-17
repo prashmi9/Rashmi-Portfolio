@@ -1,17 +1,21 @@
-import { redirect } from "next/navigation";
-import { headers } from "next/headers";
+"use client";
+
+import { useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 export default function Home() {
-  const headersList = headers();
-  const path = headersList.get("x-invoke-path") || "";
+  const router = useRouter();
 
-  if (path.includes("ang")) {
-    redirect("/ang");
-  } else if (path.includes("react")) {
-    redirect("/react");
-  } else if (path.includes("ux")) {
-    redirect("/ux");
-  }
+  useEffect(() => {
+    // Only works client-side, not server-side
+    if (window.location.href.includes("react")) {
+      router.push("/react");
+    } else if (window.location.href.includes("ux")) {
+      router.push("/ux");
+    } else {
+      router.push("/ang");
+    }
+  }, []);
 
-  redirect("/ang");
+  return <p>Loading...</p>;
 }
