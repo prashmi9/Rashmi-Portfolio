@@ -100,17 +100,18 @@ export default function Home() {
     {
       title: "Philips home appliances (Versuni)",
       description:
-        "Delivering high quality frontend work for Philips home appliances (Versuni) using SAP Spartacus 6, Angular v17+, NgRx, RxJs Observables, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tool. Delivering features like Multi country/language support for their e-commerce storefront. Integrated with RESTful services. Working with CI/CD pipelines tools like Gitlab and Git Actions. Azure devops for sprint ceremonies. Familiarity with techniques for optimizing web performances.",
+        "Delivered high quality frontend work. Delivered features like Multi country/language support for their e-commerce storefront. Integrated with RESTful services.",
       tech: [
-        "Angular v17+",
-        "SAP Spartacus 6",
+        "ReactJS",
+        "Next.js",
+        "Axios",
+        "Tailwind CSS",
         "JavaScript",
         "HTML5/SCSS/CSS3",
         "TDD",
-        "NgRx",
-        "RxJs Observables",
+        "State management",
+        "React Hooks",
         "Typescript",
-        "Jasmine & Karma",
         "RESTful services",
         "CI/CD pipelines",
         "Gitlab",
@@ -124,16 +125,17 @@ export default function Home() {
     {
       title: "Nisbets",
       description:
-        " Lead the team to developed B2B e-commerce retailer web app for Nisbets using Spartacus 4.3, Angular v14, NgRx, RxJs, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tools for 2 Years. Have used Data management patterns like observables, two-way binding, unidirectional data flow etc. Integrate with RESTful services using API Gateway and asynchronous programming. Integrated offline accessible mobile app - progressive web app (PWA). Was responsible for code reviews and mentoring. Helped with UI/UX requirements. Used CI/CD pipelines tools like Gitlab and Git Actions.",
+        " Led the team to deliver B2B e-commerce retailer web app for Nisbets. Integrated offline accessible mobile app - progressive web app (PWA).",
       tech: [
-        "Angular v14",
-        "Spartacus 4.3",
-        "NgRx",
-        "RxJs",
+        "ReactJS",
+        "Next.js",
+        "JavaScript",
+        "State management",
+        "React Hooks",
+        "Router",
         "HTML5",
         "SCSS",
         "Typescript",
-        "Jasmine & Karma",
         "RESTful services",
         "API Gateway",
         "Progressive web app (PWA)",
@@ -147,16 +149,18 @@ export default function Home() {
     {
       title: "Baristina",
       description:
-        "Web app for Baristina Coffee machine (Versuni) using SAP Spartacus 6, Angular v17+, NgRx, RxJs Observables, HTML5/SCSS, Typescript, TDD approach using Jasmine & Karma unit testing tool. Delivering features like heavy animation, Multi country/language support for their e-commerce storefront. Integrated with RESTful services. Working with CI/CD pipelines tools like Gitlab and Git Actions. Azure devops for sprint ceremonies. Familiarity with techniques for optimizing web performances.",
+        "Web app for Baristina Coffee machine (Versuni). Delivering features like heavy animation, Multi country/language support for their e-commerce storefront. Integrated with RESTful services. Working with CI/CD pipelines tools like Gitlab and Git Actions. Azure devops for sprint ceremonies.",
       tech: [
-        "Angular v17+",
-        "SAP Spartacus 6",
+        "ReactJS",
+        "Next.js",
+        "JavaScript",
+        "Tailwind CSS",
         "Typescript/ JavaScript",
         "TDD",
-        "NgRx",
-        "RxJs Observables",
+        "State management",
+        "React Hooks",
+        "Router",
         "HTML5/SCSS/CSS3",
-        "Jasmine & Karma",
         "RESTful services",
         "CI/CD pipelines",
         "Gitlab",
@@ -177,7 +181,13 @@ export default function Home() {
         "MVC components",
         "Vanilla JavaScript",
         "AngularJs",
+        "ReactJS",
         "Bootstrap",
+        "JavaScript",
+        "TypeScript",
+        "Ajax",
+        "JSON",
+        "RESTful services",
         "jQuery",
         "Photoshop",
         "WCAG",
@@ -198,6 +208,7 @@ export default function Home() {
         "Accessibility",
         "JSON",
         "Java",
+        "Spring",
       ],
       image: "./assets/images/AutoInsurance-homepage.png",
       link: "#",
@@ -205,9 +216,9 @@ export default function Home() {
     {
       title: "The Body Shop",
       description:
-        "Worked on web app using Angular, NgRx, CSS3 - LESS, Node, Grunt for 2 years, Implemented WCAG 2.1 Level AAA for The Body Shop online shopping web and mobile application, ensuring accessibility with assistive technologies. Collaborated with RNIB (Royal National Institute of Blind people) for approval on quality. Achieved that the app is usable and navigable by individuals with disabilities.",
+        "Worked on web app, Implemented WCAG 2.1 Level AAA for online shopping web and mobile application, ensuring accessibility with assistive technologies. Collaborated with RNIB (Royal National Institute of Blind people) for approval on quality. Achieved that the app is usable and navigable by individuals with disabilities.",
       tech: [
-        "Angular",
+        "Accessibility",
         "RxJs",
         "HTML5",
         "JavaScript",
@@ -220,6 +231,10 @@ export default function Home() {
         "Grunt",
         "WCAG 2.1 Level AAA",
         "RNIB",
+        "RESTful services",
+        "Git",
+        "Git Actions",
+        "CI/CD pipelines",
       ],
       image: "./assets/images/TheBosyShop.png",
       link: "https://www.thebodyshop.com/",
@@ -236,6 +251,11 @@ export default function Home() {
         "Web performance",
         "UX design",
         "ASP.NET Core",
+        "Web Accessibility",
+        "Browser compatibility",
+        "IE v7",
+        "IE8",
+        "Wireframes",
       ],
       image: "./assets/images/FritzysPetCarePros.png",
       link: "https://fritzyspetcarepros.com/",
@@ -245,12 +265,11 @@ export default function Home() {
       description:
         "As a web developer I built their web app Angular, NgRx, unit testing frameworks Karma-Jasmine, CSS3 - LESS, Node, UI/UX Grunt for 3 years, ​​Also was helping the team with uDeploy/Jenkins for code deployments. Used Automated Testing tools like Cypress for around 1 year",
       tech: [
-        "Angular",
-        "NgRx",
-        "Karma-Jasmine",
+        "ReactJS",
+        "Next.js",
         "HTML",
         "CSS3 - LESS",
-        " JavaScript",
+        "JavaScript",
         "Node",
         "Grunt",
         "uDeploy/Jenkins",
@@ -289,9 +308,9 @@ export default function Home() {
     "TypeScript",
     "ReactJS",
     "Next.js",
-    "NgRx",
-    "RxJs",
-    "Redux",
+    "React Hooks",
+    "State management",
+    "Router",
     "REST API",
     "Node.JS",
     "JSON",
@@ -311,7 +330,6 @@ export default function Home() {
     "MongoDB",
     "ExpressJS",
     "Tailwind CSS",
-    "REST APIs",
     "SQL",
     "MySQL",
     "GraphQL",
@@ -328,8 +346,6 @@ export default function Home() {
     "Eclipse",
     "IntelliJ",
     "SonarQube",
-    "Karma",
-    "Jasmine",
     "Jest",
     "Playwright",
   ];
@@ -359,8 +375,7 @@ export default function Home() {
               Rashmi Suralkar
             </h1>
             <p className="text-lg sm:text-sm md:text-3xl text-white mb-8 max-w-2xl mx-auto">
-              Senior Frontend Developer <br /> Fullstack Developer <br /> React
-              Expert <br />
+              Senior Frontend Developer <br /> ReactJs Expert <br />
               NextJs Enthusiast
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -392,14 +407,15 @@ export default function Home() {
           </h2>
           <div className="max-w-3xl mx-auto text-center">
             <p className="text-base md:text-lg text-muted-foreground mb-6">
-              I am a seasoned Senior Developer with over 15 years of experience
-              in web development and Software technologies. Strong expertise in
-              software development with proficiency in Node.JS (TS and JS).
-              Demonstrative experience in development of web applications with
-              thorough knowledge in front-end and backend server-side
-              technologies. As a collaborative team player with strong
-              communication skills, I excel at bridging technical and
-              non-technical teams, ensuring project success and adding
+              I am a seasoned Senior Developer with over <b>16 years</b> of
+              experience in web development and Software technologies. Strong
+              expertise in software development with proficiency in{" "}
+              <b>JavaScript</b> and
+              <b>TypeScript</b>. Demonstrative experience in development of web
+              applications with thorough knowledge in front-end and backend
+              server-side technologies. As a <b>collaborative team player</b>{" "}
+              with strong communication skills, I excel at bridging technical
+              and non-technical teams, ensuring project success and adding
               significant value to every initiative I contribute to.
             </p>
             <div className="flex gap-4 justify-center mt-8">
